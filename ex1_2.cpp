@@ -5,6 +5,14 @@ GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby
 C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS
 Code, Compile, Run and Debug online from anywhere in world.
 
+Desarrollar un programa que sobre un arreglo de 20 elementos debe calcular lo siguiente: 
+    o) Generar notas aleatorias entre 5 y 20
+    b) Mostrar los resultados numero de alumno. nota y al costado de las notas aprobatorias el símbolo 
+       Nro   Nota
+       1     10
+       2     14 
+    c) Determinar el porcentaje de aprobados y desaprobados considerando corno nota mínima 
+       aprobatoria 13 y mostrar sus resultados al final de la ejecución del programa
 *******************************************************************************/
 #include <stdlib.h>
 #include <time.h>
