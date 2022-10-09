@@ -4,6 +4,8 @@
                Code, Compile, Run and Debug C++ program online.
 Write your code in this editor and press "Run" button to compile and execute it.
 
+Desarrollar un programa que cree un arreglo con los N primeros números primos y que muestre los 
+               resultados el valor de n puede estar entre 1 y 50
 *******************************************************************************/
 
 #include <iostream>
