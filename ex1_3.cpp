@@ -1,3 +1,18 @@
+/*  Desarrollar un programa que permita ingresar la cantidad de clientes en una clínica, el programa debe 
+    permitir ingresar los datos del cliente (Código, nombre, apellido. edad, genero) y mostrar todos los 
+    datos del cliente. Posterior a ello, el programa debe mostrar un menú de opciones con las siguientes 
+    opciones.
+    (1)  Ingresar datos
+    (2)  Mostrar dato del paciente Oro: (se ingresará el índice del paciente y se mostrará sus datos)
+    (3)  Buscar paciente (se ingresará el nombre del paciente para ser buscado y mostrar sus datos)
+    (4)  Mostrar
+         a.  Cantidad de pacientes mayores de edad
+         b.  Cantidad de pacientes menores de edad
+         c.  Cantidad de pacientes varones
+         d.  Cantidad de pacientes mujeres
+*/
+
+
 #include <iostream>
 #include <conio.h>
 #include <stdio.h>
